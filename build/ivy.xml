@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.ocypode" module="Ocypode" revision="1.0.0" status="integration" publication="20150324171727">
+  <info organisation="com.ocypode" module="Ocypode" revision="1.0.0" status="integration" publication="20150324180131">
     <description/>
   </info>
   <configurations>
