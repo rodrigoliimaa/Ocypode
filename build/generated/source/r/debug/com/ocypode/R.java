@@ -115,7 +115,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.ocypode:layout_footer_embedded
         */
-        public static final int OCLisView_layout_footer_embedded = 1;
+        public static int OCLisView_layout_footer_embedded = 1;
         /**
           <p>This symbol is the offset where the {@link com.ocypode.R.attr#layout_header_embedded}
           attribute's value can be found in the {@link #OCLisView} array.
@@ -129,7 +129,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.ocypode:layout_header_embedded
         */
-        public static final int OCLisView_layout_header_embedded = 0;
+        public static int OCLisView_layout_header_embedded = 0;
         /** Attributes that can be used with a TypefacedTextView.
            <p>Includes the following attributes:</p>
            <table>
@@ -156,6 +156,6 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.ocypode:typefaceTextView
         */
-        public static final int TypefacedTextView_typefaceTextView = 0;
+        public static int TypefacedTextView_typefaceTextView = 0;
     };
 }
