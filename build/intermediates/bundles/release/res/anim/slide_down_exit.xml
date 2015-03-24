@@ -3,4 +3,4 @@
 	<translate android:fromYDelta="0" android:toYDelta="100%p" android:duration="@android:integer/config_mediumAnimTime" />
 	<alpha android:fromAlpha="1.0" android:toAlpha="1.0" android:duration="@android:integer/config_mediumAnimTime" />
 </set>
-<!-- From: file:/Users/rodrigo/Copy/Projetos/Android/Ocypode/res/anim/slide_down_exit.xml -->
+<!-- From: file:/Users/rodrigo/Copy/Projetos/Exemplos/Android/Ocypode/res/anim/slide_down_exit.xml -->

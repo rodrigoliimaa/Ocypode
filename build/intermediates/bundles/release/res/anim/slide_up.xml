@@ -3,4 +3,4 @@
 	<translate android:fromYDelta="100%" android:toYDelta="0" android:duration="100" />
 	<alpha android:fromAlpha="0.0" android:toAlpha="1.0" android:duration="100" />
 </set>
-<!-- From: file:/Users/rodrigo/Copy/Projetos/Android/Ocypode/res/anim/slide_up.xml -->
+<!-- From: file:/Users/rodrigo/Copy/Projetos/Exemplos/Android/Ocypode/res/anim/slide_up.xml -->
